@@ -37,5 +37,7 @@ class ViewController: UIViewController {
         mailButton.setTitle("Mail Sent", forState: UIControlState.Normal)
     }
 
+    // comment to test commits to bithub
+    
 }
 
